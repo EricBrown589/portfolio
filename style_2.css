@@ -24,7 +24,11 @@ h2 {
 
 #early_life {
     color: #cc978e;
+<<<<<<< HEAD
     font-size: 25px;
+=======
+    font-size: 20px;
+>>>>>>> master
     grid-row: 2;
     grid-column: 2 / span 2;
     line-height: 1.5;

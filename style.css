@@ -5,7 +5,11 @@ body {
 
 header {
     font-size: 100px;
+<<<<<<< HEAD
     padding: 75px 0 0 125px;
+=======
+    padding: 10px 0 0 125px;
+>>>>>>> master
     margin: 0 0 -20px 0;
 }
 
