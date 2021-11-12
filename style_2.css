@@ -1,0 +1,31 @@
+
+body {
+    background: #042A2B;
+}
+
+header {
+    text-align: center;
+    font-size: 60px;
+    color: #96ded1;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 50px 1fr 1fr 1fr;
+}
+
+h2 {
+    font-size: 30px;
+    color: #b4654a; 
+    grid-row: 1;
+    grid-column: 2;
+}
+
+#early_life {
+    color: #cc978e;
+    font-size: 22px;
+    grid-row: 2;
+    grid-column: 2 / span 2;
+    line-height: 1.5;
+}
