@@ -1,0 +1,53 @@
+body {
+    background: #96DED1;
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png"), url("https://www.transparenttextures.com/patterns/egg-shell.png");
+}
+
+header {
+    font-size: 100px;
+    padding: 75px 0 0 125px;
+    margin: 0 0 -20px 0;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+h2 {
+    padding: 0 0 0 125px;
+    font-size: 30px;
+}
+
+a {
+    color: #042A2B;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #cc978e;
+    text-decoration: underline;
+}
+
+svg {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#linkedin:hover {
+    color: #0077b5;
+}
+
+#email:hover {
+    color: #0077b5;
+}
+
+footer {
+    font-size: 35px;
+    padding: 0 0 0 125px;
+    align-self: flex-end;
+}
